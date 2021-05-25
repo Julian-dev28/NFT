@@ -9,16 +9,16 @@
         },
         {
             "id": 1,
-            "description": "Your-Brother",
+            "description": "Canya-Services",
             "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-            "image": "https://gateway.pinata.cloud/ipfs/QmPBGGXezmFTFdrPQj6MCgBFqgQ6PM48tJgu4kSqCS1R3n",
+            "image": "https://gateway.pinata.cloud/ipfs/QmaVBLcgLLHpEDeaQXEfVmh9zu8UWTT5SKGcfh7tSP3AkS",
             "name": "Canya1"
         },
         {
             "id": 2,
-            "description": "Your-Brother",
+            "description": "Ics-Mark",
             "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-            "image": "https://gateway.pinata.cloud/ipfs/QmPBGGXezmFTFdrPQj6MCgBFqgQ6PM48tJgu4kSqCS1R3n",
+            "image": "https://gateway.pinata.cloud/ipfs/QmQMg85XXKn58SGRnfxCJFpVJRfeS2dwjCTNuzz8Y7UJdZ",
             "name": "Canya2"
         }
     ]
