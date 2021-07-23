@@ -2,24 +2,11 @@
     "tokens": [
         {
             "id": 0,
-            "description": "CanWork Logo",
-            "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-            "image": "https://gateway.pinata.cloud/ipfs/QmPBGGXezmFTFdrPQj6MCgBFqgQ6PM48tJgu4kSqCS1R3n",
-            "name": "Canya"
-        },
-        {
-            "id": 1,
-            "description": "Canya-Services",
-            "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-            "image": "https://gateway.pinata.cloud/ipfs/QmaVBLcgLLHpEDeaQXEfVmh9zu8UWTT5SKGcfh7tSP3AkS",
-            "name": "Canya1"
-        },
-        {
-            "id": 2,
-            "description": "Ico-Mark",
-            "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-            "image": "https://gateway.pinata.cloud/ipfs/QmQMg85XXKn58SGRnfxCJFpVJRfeS2dwjCTNuzz8Y7UJdZ",
-            "name": "Canya2"
+            "description": "Kanye Mural",
+            "external_url": "",
+            "image": "https://gateway.pinata.cloud/ipfs/QmTCyXNpCCHAvEMuj3p1PnGMtfXSvBStuqkjHFKAj3fJuL",
+            "name": "Kane"
+
         }
     ]
 }
